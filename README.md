@@ -75,5 +75,5 @@ Precione Enter para continuar...
 
 ## Autor
 
-Desenvolvido por [Seu Nome].
+Desenvolvido por Maria Eduarda da Nóbrega.
 
